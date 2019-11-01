@@ -1,0 +1,3 @@
+[submodule "contrib/libudfread"]
+	path = contrib/libudfread
+	url = git://github.com/firecore/libudfread.git
